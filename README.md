@@ -1,2 +1,2 @@
 # POO-Tokio
-All my POO exercises from Tokio School
+All my Object Oriented Programming exercises from Tokio School
